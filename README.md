@@ -1,4 +1,4 @@
-# IS170---digital-binder
+# Machine Learning Applications Digital Binder
 
 This repository contains labs related to various topics covered in the Machine Learning Applications course. 
 
