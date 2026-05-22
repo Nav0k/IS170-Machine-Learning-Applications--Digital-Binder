@@ -3,7 +3,6 @@
 This repository contains labs related to various topics covered in the Machine Learning Applications course. 
 
 ## Topics covered: 
-Unsupervised Learning & Supervised Learning
 - Feature Engneering 
 - K-means Clustering
 - Principal Components Analysis (PCA)
