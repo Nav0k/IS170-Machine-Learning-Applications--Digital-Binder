@@ -2,7 +2,7 @@
 
 This repository contains labs related to various topics covered in the Machine Learning Applications course. 
 
-# Topics covered: 
+## Topics covered: 
 Unsupervised Learning & Supervised Learning
 - Feature Engneering 
 - K-means Clustering
@@ -12,20 +12,20 @@ Unsupervised Learning & Supervised Learning
   - Multivariate
   - Logistic Regression: Binary & Mutlinomial
 - Decision Tree and Random Forest
-- K-nearest neighbors
+- K-nearest Neighbors
 - Support Vector Machines (SVMs)
 - Naive Bayes
   - CategoricalNB
   - GaussianNB
   - MultinomialNB
 
-# Additional Topics:
+## Additional Topics:
 - OpenClaw with LLM
   - Local LLM Integration with Telegram Chatbot
 - HuggingFace
   - Local Audio-Text-to-Text Model Setup (Hugging Face Whisper)
 
- # Tools Used
+ ## Tools Used
  - Python
  - Google Colab
  - Local Terminal/Command Line
